@@ -1,0 +1,261 @@
+[{
+  "_id": {
+    "$oid": "65577494069ff90d7a7f61c4"
+  },
+  "name": "John",
+  "email": "john@email.com",
+  "skills": [
+    "reactjs",
+    "express",
+    "nodejs"
+  ],
+  "experience": "Worked as a successful MERN stack developer, Worked with react to create frontends for many teams",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b30"
+  },
+  "name": "Alice",
+  "email": "alice@email.com",
+  "skills": [
+    "angular",
+    "django",
+    "python"
+  ],
+  "experience": "Experienced in building dynamic UIs with Angular and creating robust backends with Django."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b31"
+  },
+  "name": "Bob",
+  "email": "bob@email.com",
+  "skills": [
+    "vuejs",
+    "flask",
+    "python"
+  ],
+  "experience": "Vue.js enthusiast with a strong background in Python and Flask development."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b32"
+  },
+  "name": "Charlie",
+  "email": "charlie@email.com",
+  "skills": [
+    "reactnative",
+    "fastapi",
+    "python"
+  ],
+  "experience": "Specialized in cross-platform mobile app development using React Native and FastAPI."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b33"
+  },
+  "name": "David",
+  "email": "david@email.com",
+  "skills": [
+    "svelte",
+    "django",
+    "python"
+  ],
+  "experience": "Svelte aficionado with expertise in building Django-powered web applications."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b34"
+  },
+  "name": "Eva",
+  "email": "eva@email.com",
+  "skills": [
+    "redux",
+    "flask",
+    "python"
+  ],
+  "experience": "Proficient in state management with Redux and backend development using Flask."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b35"
+  },
+  "name": "Frank",
+  "email": "frank@email.com",
+  "skills": [
+    "nextjs",
+    "fastapi",
+    "python"
+  ],
+  "experience": "Next.js developer skilled in creating APIs with FastAPI."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b36"
+  },
+  "name": "Grace",
+  "email": "grace@email.com",
+  "skills": [
+    "mobx",
+    "django",
+    "python"
+  ],
+  "experience": "Uses MobX for state management and Django for backend services."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b37"
+  },
+  "name": "Henry",
+  "email": "henry@email.com",
+  "skills": [
+    "nuxtjs",
+    "flask",
+    "python"
+  ],
+  "experience": "Nuxt.js enthusiast building robust web applications with Flask."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b38"
+  },
+  "name": "Ivy",
+  "email": "ivy@email.com",
+  "skills": [
+    "angularjs",
+    "fastapi",
+    "python"
+  ],
+  "experience": "Skilled in AngularJS and FastAPI for creating modern web applications."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b39"
+  },
+  "name": "Jack",
+  "email": "jack@email.com",
+  "skills": [
+    "emberjs",
+    "django",
+    "python"
+  ],
+  "experience": "Ember.js expert contributing to Django-powered projects."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b3a"
+  },
+  "name": "Katie",
+  "email": "katie@email.com",
+  "skills": [
+    "backbonejs",
+    "flask",
+    "python"
+  ],
+  "experience": "Backbone.js developer proficient in crafting backend services with Flask."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b3b"
+  },
+  "name": "Liam",
+  "email": "liam@email.com",
+  "skills": [
+    "sapper",
+    "fastapi",
+    "python"
+  ],
+  "experience": "Sapper developer working on scalable APIs with FastAPI."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b3c"
+  },
+  "name": "Mia",
+  "email": "mia@email.com",
+  "skills": [
+    "polymer",
+    "django",
+    "python"
+  ],
+  "experience": "Polymer enthusiast contributing to Django-powered applications."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b3d"
+  },
+  "name": "Noah",
+  "email": "noah@email.com",
+  "skills": [
+    "reduxsaga",
+    "flask",
+    "python"
+  ],
+  "experience": "Expert in handling side effects with Redux Saga and building Flask APIs."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b3e"
+  },
+  "name": "Olivia",
+  "email": "olivia@email.com",
+  "skills": [
+    "quasar",
+    "fastapi",
+    "python"
+  ],
+  "experience": "Quasar developer creating powerful APIs with FastAPI."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b3f"
+  },
+  "name": "Pablo",
+  "email": "pablo@email.com",
+  "skills": [
+    "riotjs",
+    "django",
+    "python"
+  ],
+  "experience": "Riot.js developer contributing to Django-based projects."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b40"
+  },
+  "name": "Quinn",
+  "email": "quinn@email.com",
+  "skills": [
+    "stimulusjs",
+    "flask",
+    "python"
+  ],
+  "experience": "Stimulus.js developer building Flask-powered web applications."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b41"
+  },
+  "name": "Riley",
+  "email": "riley@email.com",
+  "skills": [
+    "sveltekit",
+    "fastapi",
+    "python"
+  ],
+  "experience": "SvelteKit developer creating efficient APIs with FastAPI."
+},
+{
+  "_id": {
+    "$oid": "6557774305b010a545ea3b42"
+  },
+  "name": "Sophia",
+  "email": "sophia@email.com",
+  "skills": [
+    "vanillajs",
+    "flask",
+    "python"
+  ],
+  "experience": "Skilled in Vanilla JS and Flask for web development."
+}]
